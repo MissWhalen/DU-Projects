@@ -1,0 +1,3 @@
+C:/Users/Briana/CLionProjects/Assignment4TruncatablePrimes/cmake-build-debug/CMakeFiles/Assignment4TruncatablePrimes.dir
+C:/Users/Briana/CLionProjects/Assignment4TruncatablePrimes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Briana/CLionProjects/Assignment4TruncatablePrimes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

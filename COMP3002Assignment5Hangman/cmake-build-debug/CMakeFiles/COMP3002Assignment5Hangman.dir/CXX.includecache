@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Briana/CLionProjects/COMP3002Assignment5Hangman/Hangman.h
+map
+-
+string
+-
+vector
+-
+ostream
+-
+
+C:/Users/Briana/CLionProjects/COMP3002Assignment5Hangman/Words.h
+iostream
+-
+vector
+-
+map
+-
+string
+-
+
+C:/Users/Briana/CLionProjects/COMP3002Assignment5Hangman/main.cpp
+iostream
+-
+set
+-
+map
+-
+Words.h
+C:/Users/Briana/CLionProjects/COMP3002Assignment5Hangman/Words.h
+Hangman.h
+C:/Users/Briana/CLionProjects/COMP3002Assignment5Hangman/Hangman.h
+

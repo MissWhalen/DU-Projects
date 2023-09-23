@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Minststack.cpp
+Minststack.h
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Minststack.h
+vector
+-
+iostream
+-
+
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Minststack.h
+vector
+-
+Node.h
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Node.h
+
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Node.cpp
+Node.h
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Node.h
+
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Node.h
+Minststack.h
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Minststack.h
+
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/main.cpp
+iostream
+-
+vector
+-
+Minststack.h
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Minststack.h
+Node.h
+C:/Users/Briana/CLionProjects/COMP3002FinalQuestion3/Node.h
+

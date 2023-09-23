@@ -1,0 +1,3 @@
+C:/Users/Briana/CLionProjects/COMP3002Assignment5Hangman/cmake-build-debug/CMakeFiles/COMP3002Assignment5Hangman.dir
+C:/Users/Briana/CLionProjects/COMP3002Assignment5Hangman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Briana/CLionProjects/COMP3002Assignment5Hangman/cmake-build-debug/CMakeFiles/rebuild_cache.dir

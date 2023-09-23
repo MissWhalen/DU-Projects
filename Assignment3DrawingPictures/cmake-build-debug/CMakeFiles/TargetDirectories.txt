@@ -1,0 +1,3 @@
+C:/Users/Briana/CLionProjects/Assignment3DrawingPictures/cmake-build-debug/CMakeFiles/Assignment3DrawingPictures.dir
+C:/Users/Briana/CLionProjects/Assignment3DrawingPictures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Briana/CLionProjects/Assignment3DrawingPictures/cmake-build-debug/CMakeFiles/rebuild_cache.dir

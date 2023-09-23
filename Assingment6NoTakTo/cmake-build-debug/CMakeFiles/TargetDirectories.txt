@@ -1,0 +1,3 @@
+C:/Users/Briana/CLionProjects/Assingment6NoTakTo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Briana/CLionProjects/Assingment6NoTakTo/cmake-build-debug/CMakeFiles/Assingment6NoTakTo.dir
+C:/Users/Briana/CLionProjects/Assingment6NoTakTo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Briana/CLionProjects/COMP3002Assignment3Cipher/Letter.cpp
+Letter.h
+C:/Users/Briana/CLionProjects/COMP3002Assignment3Cipher/Letter.h
+iostream
+-
+
+C:/Users/Briana/CLionProjects/COMP3002Assignment3Cipher/Letter.h
+

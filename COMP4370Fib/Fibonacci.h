@@ -1,0 +1,8 @@
+//
+// Created by Briana on 4/12/2021.
+//
+
+#ifndef COMP4370ASS2MERGFIB_FIBONACCI_H
+#define COMP4370ASS2MERGFIB_FIBONACCI_H
+int fibonacci(int f);
+#endif //COMP4370ASS2MERGFIB_FIBONACCI_H

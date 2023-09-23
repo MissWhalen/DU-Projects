@@ -1,0 +1,3 @@
+C:/Users/Briana/CLionProjects/COMP3002Midterm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Briana/CLionProjects/COMP3002Midterm/cmake-build-debug/CMakeFiles/COMP3002Midterm.dir
+C:/Users/Briana/CLionProjects/COMP3002Midterm/cmake-build-debug/CMakeFiles/edit_cache.dir

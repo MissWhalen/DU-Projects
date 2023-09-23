@@ -1,0 +1,26 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Briana\CLionProjects\assignment3
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error: The current CMakeCache.txt directory C:/Users/Briana/CLionProjects/assignment3/cmake-build-debug/_deps/googletest-subbuild/CMakeCache.txt is different than the directory c:/Users/Briana/CLionProjects/COMP4370Ass2MergFib/cmake-build-debug/_deps/googletest-subbuild where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+
+CMake Error at C:/Program Files/JetBrains/CLion 2020.2.1/bin/cmake/win/share/cmake-3.19/Modules/FetchContent.cmake:977 (message):
+  CMake step for googletest failed: 1
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2020.2.1/bin/cmake/win/share/cmake-3.19/Modules/FetchContent.cmake:1111:EVAL:2 (__FetchContent_directPopulate)
+  C:/Program Files/JetBrains/CLion 2020.2.1/bin/cmake/win/share/cmake-3.19/Modules/FetchContent.cmake:1111 (cmake_language)
+  cmake/GetGoogletest.cmake:52 (FetchContent_Populate)
+  CMakeLists.txt:9 (include)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Briana/CLionProjects/assignment3/cmake-build-debug/CMakeFiles/CMakeOutput.log".

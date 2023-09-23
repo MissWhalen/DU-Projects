@@ -1,0 +1,3 @@
+C:/Users/Briana/CLionProjects/assignment5practice/cmake-build-debug/CMakeFiles/assignment5practice.dir
+C:/Users/Briana/CLionProjects/assignment5practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Briana/CLionProjects/assignment5practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

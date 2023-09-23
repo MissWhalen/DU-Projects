@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Briana/CLionProjects/Assingment6NoTakTo/NoTakToe.cpp
+NoTakToe.h
+C:/Users/Briana/CLionProjects/Assingment6NoTakTo/NoTakToe.h
+iostream
+-
+string
+-
+
+C:/Users/Briana/CLionProjects/Assingment6NoTakTo/NoTakToe.h
+vector
+-
+string
+-
+iostream
+-
+
+C:/Users/Briana/CLionProjects/Assingment6NoTakTo/main.cpp
+iostream
+-
+NoTakToe.h
+C:/Users/Briana/CLionProjects/Assingment6NoTakTo/NoTakToe.h
+vector
+-
+
